@@ -22,3 +22,40 @@ cd QR-Maker-In-Flutter
 ## Run the App
 To run the app on your preferred platform, use the following commands:
   
+### Android
+```
+flutter build apk
+flutter install
+```
+
+### iOS
+```
+flutter build ios
+open ios/Runner.xcworkspace
+```
+Open the project in Xcode and run.
+
+### Windows
+```
+flutter build windows
+```
+
+### macOS
+```
+flutter build macos
+```
+
+### Linux
+```
+flutter build linux
+```
+
+### Web
+```
+flutter build web
+```
+
+## Usage
+1. Enter the text you want to convert to a QR code.
+2. Click on the "Generate QR Code" button.
+3. The generated QR code will be displayed on the screen.
