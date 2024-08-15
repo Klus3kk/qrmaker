@@ -15,7 +15,7 @@ A cross-platform QR Code Generator application built with Flutter. This app allo
 
 ## Clone the Repository
 ```
-git clone https://github.com/yourusername/QR-Maker-In-Flutter.git
+git clone https://github.com/Klus3kk/QR-Maker-In-Flutter.git
 cd QR-Maker-In-Flutter
 ```
 
